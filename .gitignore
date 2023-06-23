@@ -1,0 +1,13 @@
+
+/.next/
+.anchor
+.DS_Store
+target
+test-ledger
+**/*.rs.bk
+/keys/
+.rustc_info.json
+debug/
+node_modules
+docker-target
+/out
